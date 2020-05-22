@@ -17,13 +17,12 @@ def getData(url):
 
 if __name__ == "__main__":
     while True:
-        # NotifyMe("Shrey","This is Corona update")
         htmldata = getData("https://www.mohfw.gov.in/")
         # print(htmldata)
         
         soup = BeautifulSoup(htmldata,'lxml')
-        # print(soup.prettify())
         
+        #find table and make them list from html data
         datastr = ""
         for tr in soup.find_all('tbody')[0].find_all('tr'):
             datastr += tr.get_text()
