@@ -1,0 +1,3 @@
+plyer
+beautifulsoup4
+time
