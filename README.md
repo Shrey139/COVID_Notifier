@@ -9,6 +9,6 @@ Open your cmd and run this
 after that run the main.py file
 
 # Technology
-⋅⋅* Git
-⋅⋅* Python
-⋅⋅* GitHub
+* Git
+* Python
+* GitHub
