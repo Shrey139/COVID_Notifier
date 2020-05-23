@@ -7,3 +7,8 @@ Open your cmd and run this
 `pip install -r requirements.txt`
 
 after that run the main.py file
+
+# Technology
+⋅⋅* Git
+⋅⋅* Python
+⋅⋅* GitHub
