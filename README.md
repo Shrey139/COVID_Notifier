@@ -8,6 +8,11 @@ Open your cmd and run this
 
 after that run the `main.py` file
 
+# States
+* Gujarat
+* Delhi
+* Maharastra
+
 # Technology
 * Git
 * Python
