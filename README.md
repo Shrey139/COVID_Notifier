@@ -1,5 +1,8 @@
-# COVID_Notifier
+# COVID-19 Notifier
 This Software is for windows operating system. This will notify you total number of cases in every one hour.
+
+# Dataset
+* MOHFW
 
 # To run the software
 * Open your cmd and run this
